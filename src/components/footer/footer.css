@@ -1,0 +1,10 @@
+footer {
+  min-height: 5rem;
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0;
+}
+
+img {
+  width: 20rem;
+}

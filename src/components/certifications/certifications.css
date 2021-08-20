@@ -1,0 +1,21 @@
+.certifications-container h4 {
+  height: 0.1rem;
+}
+
+.certifications {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.certifications h4 {
+  height: 0.5rem;
+}
+
+.certifications h5 {
+  width: 20%;
+}
+
+.certifications p {
+  width: 80%;
+}

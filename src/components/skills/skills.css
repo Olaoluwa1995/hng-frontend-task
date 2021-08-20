@@ -1,0 +1,21 @@
+.skills-container h4 {
+  height: 0.1rem;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.empty {
+  width: 20%;
+}
+
+.skills div p span {
+  font-weight: bold;
+}
+
+.skills div {
+  width: 80%;
+}

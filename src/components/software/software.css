@@ -1,0 +1,52 @@
+.software-container h4 {
+  height: 0.1rem;
+}
+
+.software {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.software h5 {
+  width: 20%;
+}
+
+.software div {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.excellent-progress {
+  height: 0.4rem;
+  max-width: 8rem;
+  background-color: #282c34;
+}
+
+.grade {
+  display: flex;
+  flex-direction: column;
+}
+
+.good-progress {
+  height: 0.4rem;
+  max-width: 8rem;
+}
+
+.deep-progress {
+  max-width: 6rem;
+  background-color: #282c34;
+}
+
+.light-progress {
+  max-width: 2rem;
+  background-color: grey;
+}
+
+.grade-column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0.5rem 0;
+}

@@ -1,0 +1,25 @@
+.experience-container h4 {
+  height: 0.1rem;
+}
+
+.experience {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.experience ul {
+  padding-inline-start: 1rem;
+}
+
+.experience h4 {
+  height: 0.5rem;
+}
+
+.experience h5 {
+  width: 20%;
+}
+
+.experience div {
+  width: 80%;
+}

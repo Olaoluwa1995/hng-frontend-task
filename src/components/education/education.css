@@ -1,0 +1,25 @@
+.education-container h4 {
+  height: 0.1rem;
+}
+
+.education {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.education ul {
+  padding-inline-start: 1rem;
+}
+
+.education h4 {
+  height: 0.5rem;
+}
+
+.education h5 {
+  width: 20%;
+}
+
+.education div {
+  width: 80%;
+}

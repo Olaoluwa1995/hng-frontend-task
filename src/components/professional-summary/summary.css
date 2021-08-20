@@ -1,0 +1,8 @@
+.summary {
+  font-size: smaller;
+  margin-bottom: 0.5rem;
+}
+
+.summary span {
+  font-weight: bold;
+}
